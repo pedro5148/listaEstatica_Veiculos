@@ -5,7 +5,7 @@ Este exercício foi desenvolvido por mim para fins acadêmicos, para colocar em 
 ### Qual a finalidade do projeto?
 ---
 A ideia é criar um "sistema" para controle de veiculos. 
-![]()
+![](src/layout.png)
 
 ### O que compõem esse script?
 ---
